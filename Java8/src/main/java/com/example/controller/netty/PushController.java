@@ -1,6 +1,6 @@
-package com.example.wangyunwei.controller.netty;
+package com.example.controller.netty;
 
-import com.example.wangyunwei.controller.netty.service.PushService;
+import com.example.controller.netty.service.PushService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.http.MediaType;

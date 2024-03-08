@@ -1,4 +1,4 @@
-package com.example.wangyunwei.controller.excel.dto;
+package com.example.controller.excel.dto;
 
 import lombok.Getter;
 import lombok.Setter;

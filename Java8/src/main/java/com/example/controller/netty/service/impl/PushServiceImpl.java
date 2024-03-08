@@ -1,7 +1,7 @@
-package com.example.wangyunwei.controller.netty.service.impl;
+package com.example.controller.netty.service.impl;
 
-import com.example.wangyunwei.controller.netty.config.NettyConfig;
-import com.example.wangyunwei.controller.netty.service.PushService;
+import com.example.controller.netty.config.NettyConfig;
+import com.example.controller.netty.service.PushService;
 import io.netty.channel.Channel;
 import io.netty.handler.codec.http.websocketx.TextWebSocketFrame;
 import org.springframework.stereotype.Service;

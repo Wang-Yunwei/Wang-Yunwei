@@ -1,4 +1,4 @@
-package com.example.wangyunwei.utils;
+package com.example.utils;
 
 import cn.hutool.core.collection.CollUtil;
 import com.beust.jcommander.internal.Lists;

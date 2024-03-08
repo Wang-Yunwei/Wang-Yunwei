@@ -1,4 +1,4 @@
-package com.example.wangyunwei.utils;
+package com.example.utils;
 
 import lombok.extern.slf4j.Slf4j;
 

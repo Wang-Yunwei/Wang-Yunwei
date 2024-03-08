@@ -1,4 +1,4 @@
-package com.example.wangyunwei.controller.sse.dto;
+package com.example.controller.sse.dto;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

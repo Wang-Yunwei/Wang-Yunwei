@@ -1,10 +1,10 @@
-package com.example.wangyunwei.controller.pdf;
+package com.example.controller.pdf;
 
-import com.example.wangyunwei.controller.pdf.dto.FirstAidMedicalRecordsPo;
-import com.example.wangyunwei.controller.pdf.dto.TriageDetailPo;
-import com.example.wangyunwei.controller.pdf.dto.TriageTickertapePo;
-import com.example.wangyunwei.controller.pdf.dto.WristbandsPo;
-import com.example.wangyunwei.controller.pdf.service.PdfService;
+import com.example.controller.pdf.dto.FirstAidMedicalRecordsPo;
+import com.example.controller.pdf.dto.TriageDetailPo;
+import com.example.controller.pdf.dto.TriageTickertapePo;
+import com.example.controller.pdf.dto.WristbandsPo;
+import com.example.controller.pdf.service.PdfService;
 import com.google.zxing.WriterException;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

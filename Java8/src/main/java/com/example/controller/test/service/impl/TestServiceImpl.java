@@ -1,6 +1,6 @@
-package com.example.wangyunwei.controller.test.service.impl;
+package com.example.controller.test.service.impl;
 
-import com.example.wangyunwei.fegin.PhepFeginService;
+import com.example.fegin.PhepFeginService;
 import org.springframework.stereotype.Service;
 
 /**

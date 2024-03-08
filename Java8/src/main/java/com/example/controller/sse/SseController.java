@@ -1,9 +1,9 @@
-package com.example.wangyunwei.controller.sse;
+package com.example.controller.sse;
 
-import com.example.wangyunwei.controller.sse.dto.PushDateToSSEPo;
-import com.example.wangyunwei.controller.sse.service.SseService;
-import com.example.wangyunwei.response.ResponseDto;
-import com.example.wangyunwei.response.ResponseUtil;
+import com.example.controller.sse.dto.PushDateToSSEPo;
+import com.example.controller.sse.service.SseService;
+import com.example.response.ResponseDto;
+import com.example.response.ResponseUtil;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.mvc.method.annotation.SseEmitter;

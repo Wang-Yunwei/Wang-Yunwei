@@ -1,8 +1,8 @@
-package com.example.wangyunwei.controller.sse.service.impl;
+package com.example.controller.sse.service.impl;
 
-import com.example.wangyunwei.controller.sse.dto.PushDateToSSEPo;
-import com.example.wangyunwei.controller.sse.service.SseService;
-import com.example.wangyunwei.response.exception.BusinessException;
+import com.example.controller.sse.dto.PushDateToSSEPo;
+import com.example.controller.sse.service.SseService;
+import com.example.response.exception.BusinessException;
 import org.springframework.stereotype.Service;
 import org.springframework.web.servlet.mvc.method.annotation.SseEmitter;
 

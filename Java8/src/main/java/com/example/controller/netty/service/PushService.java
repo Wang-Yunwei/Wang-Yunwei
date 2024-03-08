@@ -1,4 +1,4 @@
-package com.example.wangyunwei.controller.netty.service;
+package com.example.controller.netty.service;
 
 /**
  * @author WangYunwei [2021-12-20]

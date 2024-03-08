@@ -1,4 +1,4 @@
-package com.example.wangyunwei.fegin;
+package com.example.fegin;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.stereotype.Component;

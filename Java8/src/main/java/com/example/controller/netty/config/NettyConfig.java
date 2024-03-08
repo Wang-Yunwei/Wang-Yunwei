@@ -1,4 +1,4 @@
-package com.example.wangyunwei.controller.netty.config;
+package com.example.controller.netty.config;
 
 import io.netty.channel.Channel;
 import io.netty.channel.group.ChannelGroup;

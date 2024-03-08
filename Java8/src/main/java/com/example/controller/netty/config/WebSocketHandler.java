@@ -1,6 +1,5 @@
-package com.example.wangyunwei.controller.netty.config;
+package com.example.controller.netty.config;
 
-import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import io.netty.channel.ChannelHandler;

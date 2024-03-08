@@ -1,4 +1,4 @@
-package com.example.wangyunwei.response.exception;
+package com.example.response.exception;
 
 public class BusinessException extends BaseException {
 

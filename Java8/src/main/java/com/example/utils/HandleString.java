@@ -1,4 +1,4 @@
-package com.example.wangyunwei.utils;
+package com.example.utils;
 
 import org.springframework.util.StringUtils;
 

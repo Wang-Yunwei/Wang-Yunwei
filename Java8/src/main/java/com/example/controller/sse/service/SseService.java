@@ -1,6 +1,6 @@
-package com.example.wangyunwei.controller.sse.service;
+package com.example.controller.sse.service;
 
-import com.example.wangyunwei.controller.sse.dto.PushDateToSSEPo;
+import com.example.controller.sse.dto.PushDateToSSEPo;
 import org.springframework.web.servlet.mvc.method.annotation.SseEmitter;
 
 /**

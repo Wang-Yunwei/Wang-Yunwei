@@ -1,4 +1,4 @@
-package com.example.wangyunwei.test;
+package com.example.test;
 
 import org.jasypt.encryption.StringEncryptor;
 import org.junit.jupiter.api.Test;

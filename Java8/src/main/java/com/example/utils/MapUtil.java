@@ -1,4 +1,4 @@
-package com.example.wangyunwei.utils;
+package com.example.utils;
 
 import com.beust.jcommander.internal.Maps;
 import org.springframework.cglib.beans.BeanMap;

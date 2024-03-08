@@ -1,9 +1,9 @@
-package com.example.wangyunwei.config;
+package com.example.config;
 
 import com.beust.jcommander.ParameterException;
-import com.example.wangyunwei.response.ResponseDto;
-import com.example.wangyunwei.response.ResponseUtil;
-import com.example.wangyunwei.response.exception.BaseException;
+import com.example.response.ResponseDto;
+import com.example.response.ResponseUtil;
+import com.example.response.exception.BaseException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.validation.BindException;

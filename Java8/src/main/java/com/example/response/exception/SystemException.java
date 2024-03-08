@@ -9,7 +9,7 @@
  * supplied.
  *******************************************************************************
  *----------------------------------------------------------------------------*/
-package com.example.wangyunwei.response.exception;
+package com.example.response.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

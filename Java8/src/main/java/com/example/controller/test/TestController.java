@@ -1,8 +1,8 @@
-package com.example.wangyunwei.controller.test;
+package com.example.controller.test;
 
-import com.example.wangyunwei.fegin.PhepFeginService;
-import com.example.wangyunwei.response.ResponseDto;
-import com.example.wangyunwei.response.ResponseUtil;
+import com.example.fegin.PhepFeginService;
+import com.example.response.ResponseDto;
+import com.example.response.ResponseUtil;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.http.MediaType;

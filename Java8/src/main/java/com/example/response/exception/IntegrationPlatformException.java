@@ -1,4 +1,4 @@
-package com.example.wangyunwei.response.exception;
+package com.example.response.exception;
 
 /**
  * @author WangYunwei [2020-02-28]

@@ -1,4 +1,4 @@
-package com.example.wangyunwei.test;
+package com.example.test;
 
 import com.jthinking.common.util.ip.IPInfo;
 import com.jthinking.common.util.ip.IPInfoUtils;

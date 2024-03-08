@@ -1,4 +1,4 @@
-package com.example.wangyunwei.controller.netty.config;
+package com.example.controller.netty.config;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

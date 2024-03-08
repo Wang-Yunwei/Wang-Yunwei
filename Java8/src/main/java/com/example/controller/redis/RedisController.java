@@ -1,4 +1,4 @@
-package com.example.wangyunwei.controller.redis;
+package com.example.controller.redis;
 
 import io.swagger.annotations.Api;
 import org.springframework.http.MediaType;

@@ -1,4 +1,4 @@
-package com.example.wangyunwei.controller.pdf.dto;
+package com.example.controller.pdf.dto;
 
 import lombok.Getter;
 import lombok.Setter;

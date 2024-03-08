@@ -1,4 +1,4 @@
-package com.example.wangyunwei.config;
+package com.example.config;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

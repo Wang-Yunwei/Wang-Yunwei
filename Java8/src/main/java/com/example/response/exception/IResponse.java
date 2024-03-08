@@ -1,4 +1,4 @@
-package com.example.wangyunwei.response.exception;
+package com.example.response.exception;
 
 import java.io.Serializable;
 

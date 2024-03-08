@@ -1,4 +1,4 @@
-package com.example.wangyunwei.config;
+package com.example.config;
 
 import javax.net.ssl.*;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.example.wangyunwei.test;
+package com.example.test;
 
 import org.dom4j.Attribute;
 import org.dom4j.Document;

@@ -1,8 +1,8 @@
-package com.example.wangyunwei.response;
+package com.example.response;
 
-import com.example.wangyunwei.response.exception.BaseException;
-import com.example.wangyunwei.response.exception.BaseResponseEnum;
-import com.example.wangyunwei.response.exception.IResponse;
+import com.example.response.exception.BaseException;
+import com.example.response.exception.BaseResponseEnum;
+import com.example.response.exception.IResponse;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package com.example.wangyunwei.test;
+package com.example.test;
 
 import cn.hutool.core.lang.copier.Copier;
 
@@ -11,7 +11,7 @@ public class GetCanonicalName {
 
     public static void main(String[] main){
 
-        // ===> com.example.wangyunwei.test.DateTest
+        // ===> com.example.test.DateTest
         System.out.printf("===> %s%n", DateTest.class.getCanonicalName());
     }
 }

@@ -1,13 +1,13 @@
-package com.example.wangyunwei.controller.pdf.service.impl;
+package com.example.controller.pdf.service.impl;
 
 import com.alibaba.fastjson.JSON;
 import com.beust.jcommander.internal.Lists;
-import com.example.wangyunwei.controller.pdf.dto.FirstAidMedicalRecordsPo;
-import com.example.wangyunwei.controller.pdf.dto.TriageDetailPo;
-import com.example.wangyunwei.controller.pdf.dto.TriageTickertapePo;
-import com.example.wangyunwei.controller.pdf.dto.WristbandsPo;
-import com.example.wangyunwei.controller.pdf.service.PdfService;
-import com.example.wangyunwei.controller.pdf.utils.PdfUtil;
+import com.example.controller.pdf.dto.FirstAidMedicalRecordsPo;
+import com.example.controller.pdf.dto.TriageDetailPo;
+import com.example.controller.pdf.dto.TriageTickertapePo;
+import com.example.controller.pdf.dto.WristbandsPo;
+import com.example.controller.pdf.service.PdfService;
+import com.example.controller.pdf.utils.PdfUtil;
 import com.google.gson.Gson;
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.WriterException;
